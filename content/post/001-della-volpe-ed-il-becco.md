@@ -1,9 +1,7 @@
-+++
-draft = false
-date = "2017-02-19T18:12:56+01:00"
-title = "Della Volpe, ed il Becco. 1."
-
-+++
+---
+date: 2017-02-19T18:12:56+01:00
+title: Della Volpe, ed il Becco. 1.
+---
 Una Volpe, ed un Becco avendo sete, discesero ambedue in un pozzo per bere.
 Quando ebbero bevuto, non trovando lor la via di potere dal pozzo uscire, disse
 le Volpe al Becco: sta di buon animo, che ho pensato in che modo noi potremo di
