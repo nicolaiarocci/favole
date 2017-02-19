@@ -3,10 +3,10 @@ title = "Favole di Esopo Frigio"
 languageCode = "it-IT"
 theme = "hemingway2"
 
-copyright = "&copy; <a href=\"https://nicolaiarocci.com/\">Nicola Iarocci</a> 2017"
+copyright = "Favole di Esopo è un progetto di <a href=\"https://nicolaiarocci.com/\">Nicola Iarocci</a>. &copy; 2017"
 googleAnalytics = ""
-description = "descrizione"
-keywords = ["keyword1", "keyword2"]
+description = "Le Favole di Esopo Frigio"
+keywords = ["favole", "esopo"]
 
 [taxonomies]
 tag = "tags"
@@ -14,25 +14,13 @@ category = "categories"
 
 [params]
 
-[params.highlight]
-style = "github"
-languages = ["go", "dockerfile"]
-
 [[params.social]]
-url = "https://github.com/nicolaiarocci"
+url = "https://github.com/nicolaiarocci/esopo"
 fa_icon = "fa-github"
-
-#[[params.social]]
-#url = "https://gitlab.com/beli3ver"
-#fa_icon = "fa-gitlab"
 
 [[params.social]]
 url = "https://twitter.com/nicolaiarocci"
 fa_icon = "fa-twitter"
-
-#[[params.social]]
-#url = "https://telegram.me/beli3ver"
-#fa_icon = "fa-telegram"
 
 [[params.social]]
 url = "/index.xml"
