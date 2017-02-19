@@ -1,9 +1,11 @@
 # Favole di Esopo Frigio
-Tradotta ed ornata dal Signor Giulio Landi. MDCCCVIII.
+
+![Favole di Esopo frontespizio][img]
+
+## Stato attuale
+Lavorin in corso (il sito non è ancora online).
 
 Un progetto di [Nicola Iarocci][ni]
 
-## Stato attuale
-Lavorin in corso. Il sito non è ancora online.
-
 [ni]: https://nicolaiarocci.com
+[img]: /static/images/frontespizio.jpg
