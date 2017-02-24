@@ -1,6 +1,6 @@
 ---
 date: 2017-02-19T18:12:56+01:00
-title: Della Volpe, ed il Becco. 1.
+title: Della Volpe, ed il Becco
 ---
 Una Volpe, ed un Becco avendo sete, discesero ambedue in un pozzo per bere.
 Quando ebbero bevuto, non trovando lor la via di potere dal pozzo uscire, disse
@@ -15,5 +15,8 @@ fede dal Becco, rispose. O Becco, se tu avessi tanto cervello nella testa
 quanti hai peli nella barba, prima non saresti disceso nel pozzo, che tu non
 avessi ben considerato per dove tu potessi poscia salire.
 
+### Sentenza della favola
 Questa favola significa, che l'uomo deve molto ben considerare il fine, prima
 che venga a far cosa alcuna.
+
+<sub><sub>n. 001, p. 102<sub><sub>
