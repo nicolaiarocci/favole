@@ -10,7 +10,7 @@ e chinata la testa al petto, abbasserai le corna, ed io per le tue spalle
 e corna salendo, salterò fuori del pozzo e poi anco te leverò di qui. Al
 consiglio della Volpe fidandosi il Becco, fece come quella aveva detto. Uscita
 ch'ella fu fuori del pozzo, per allegrezza intorno al pozzo saltando, si
-burlava di lui, poco curendosi di cavarlo di lì. Essendo chiamata mancatrice di
+burlava di lui, poco curandosi di cavarlo di lì. Essendo chiamata mancatrice di
 fede dal Becco, rispose. O Becco, se tu avessi tanto cervello nella testa
 quanti hai peli nella barba, prima non saresti disceso nel pozzo, che tu non
 avessi ben considerato per dove tu potessi poscia salire.
