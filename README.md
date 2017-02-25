@@ -25,7 +25,8 @@ qualche motivo, credo se lo meriti.
 
 La mia intenzione è di pubblicare una favola ogni settimana, più o meno. Senza
 fretta e senza impegno. Potete consultare il sito [Favole di Esopio Frigio][f].
-Seguite [@favolediesopo][tw] su twitter per rimanere aggiornati.
+Seguite [@favolediesopo][tw] oppure la [pagina facebook][fb] per rimanere
+aggiornati.
 
 Le Favole di Esopo sono capolavori senza tempo che affrontano temi profondi in
 modo semplice ed essenziale. Non fate l'errore di considerarle banali o,
@@ -40,3 +41,4 @@ peggio, infantili. Non lo sono.
 [ni]: https://nicolaiarocci.com
 [img]: /static/images/frontespizio.jpg
 [tw]: https://twitter.com/favolediesopo
+[fb]: https://www.facebook.com/favolediesopo/
