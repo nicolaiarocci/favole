@@ -4,7 +4,7 @@ languageCode = "it-IT"
 theme = "hemingway2"
 
 copyright = "Favole di Esopo è un progetto di <a href=\"https://nicolaiarocci.com/\">Nicola Iarocci</a> &copy; 2017"
-googleAnalytics = ""
+googleAnalytics = "UA-19006041-8"
 description = "Le Favole di Esopo Frigio"
 keywords = ["favole", "esopo"]
 
