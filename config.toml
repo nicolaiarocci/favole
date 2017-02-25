@@ -15,13 +15,22 @@ category = "categories"
 [params]
 
 [[params.social]]
-url = "https://github.com/nicolaiarocci/esopo"
-fa_icon = "fa-github"
+url = "https://twitter.com/favolediesopo"
+fa_icon = "fa-twitter"
 
 [[params.social]]
-url = "https://twitter.com/nicolaiarocci"
-fa_icon = "fa-twitter"
+url = "https://www.facebook.com/favolediesopo/"
+fa_icon = "fa-facebook"
+
+
+[[params.social]]
+url = "https://github.com/nicolaiarocci/favole"
+fa_icon = "fa-github"
 
 [[params.social]]
 url = "/index.xml"
 fa_icon = "fa-rss"
+
+[[params.social]]
+url = "https://github.com/nicolaiarocci/favole/blob/master/README.md"
+fa_icon = "fa-info"
