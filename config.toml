@@ -1,7 +1,7 @@
 baseurl = "http://favole.nicolaiarocci.com/"
 title = "Favole di Esopo Frigio"
 languageCode = "it-IT"
-theme = "hemingway2"
+theme = "casper"
 
 copyright = "Favole di Esopo è un progetto di <a href=\"https://nicolaiarocci.com/\">Nicola Iarocci</a> &copy; 2017"
 googleAnalytics = "UA-19006041-8"
