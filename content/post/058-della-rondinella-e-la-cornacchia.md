@@ -1,6 +1,6 @@
 +++
 date = "2019-05-25T07:37:55+02:00"
-title = "Della ROndinella, e la Cornacchia"
+title = "Della Rondinella, e la Cornacchia"
 +++
 La Rondinella, e la Cornacchia combattevano insieme della bellezza: la
 Cornacchia disse: la tua bellezza solamente fiorisce la Priamvera, e la mia
