@@ -1,36 +1,29 @@
-baseurl = "http://favole.nicolaiarocci.com/"
+baseurl = "https://favole.nicolaiarocci.com/"
 title = "Favole di Esopo Frigio"
 languageCode = "it-IT"
 theme = "casper"
 
-copyright = "Favole di Esopo è un progetto di <a href=\"https://nicolaiarocci.com/\">Nicola Iarocci</a> &copy; 2017"
+copyright = "è un progetto di <a href=\"https://nicolaiarocci.com/\">Nicola Iarocci</a> &copy; 2017"
 googleAnalytics = "UA-19006041-8"
 description = "Le Favole di Esopo Frigio"
-keywords = ["favole", "esopo"]
-
-[taxonomies]
-tag = "tags"
-category = "categories"
 
 [params]
+description = "Nuova edizione illustrata, e ridotta a più colta lezione, con aggiunta di molte altre Favole di varj accreditati Scrittori. In Venezia appresso Francesco Andreola, MDCCCVIII."
+author = "Esopo Frigio"
+logo = "images/esopo.png"
+shareenabled = false
 
-[[params.social]]
-url = "https://twitter.com/favolediesopo"
-fa_icon = "fa-twitter"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 11
 
-[[params.social]]
-url = "https://www.facebook.com/favolediesopo/"
-fa_icon = "fa-facebook"
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 10
 
-
-[[params.social]]
-url = "https://github.com/nicolaiarocci/favole"
-fa_icon = "fa-github"
-
-[[params.social]]
-url = "/index.xml"
-fa_icon = "fa-rss"
-
-[[params.social]]
-url = "https://github.com/nicolaiarocci/favole/blob/master/README.md"
-fa_icon = "fa-info"
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
